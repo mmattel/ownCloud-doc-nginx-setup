@@ -1,0 +1,11 @@
+Compared to the original implementation where gzip is set to off,
+I have made good experiences with gzip on.
+The related issues are older and fixed in the meanwhile.
+
+Issue 1: Default nginx.conf leaves sites vulnerable to BREACH
+Fixed  : nginx/1.9.1-1
+
+Issue 2: Missing etag when gzip is used
+Fixed  : nginx/1.7.3
+Text   : Weak entity tags are now preserved on response modifications,
+         and strong ones are changed to weak
