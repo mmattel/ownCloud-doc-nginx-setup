@@ -18,7 +18,7 @@
                 image/svg+xml
                 font/opentype
                 font/otf
-                font/ttf
+                font/ttf                        #check precense for ttf AND ttc  in mime.types
                 font/woff
                 font/woff2
                 text/css
