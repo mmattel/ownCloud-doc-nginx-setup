@@ -259,4 +259,3 @@ if [ "$do_upgrade" = "y" ]; then
   echo "When all is done successfully, re-run this script and secure your .htaccess files"
   echo
 fi
-
