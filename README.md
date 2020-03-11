@@ -8,4 +8,6 @@ Here you can find it again
 Install a Asciidoctor preview plugin like `Asciidoctor.js Live Preview` for your browser, open
 `nginx_configuration.adoc` click "Raw" to see the rendered documentation
 
-Some additional / helpful info regarding nginx and ownCloud added 
+Some additional / helpful info regarding nginx and ownCloud added.
+
+Please also see: https://github.com/mmattel/nginx-setup
